@@ -30,7 +30,7 @@
     "lottie-react": "^2.4.0",
     "next": "15.5.28",
     "openai": "^4.6.0",
-    "postcss": "8.4.29",
+    "postcss": "8.5.23",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-dropzone": "^14.2.3",
